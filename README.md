@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manmohanaeir1&" alt="Manmohan  Aeir" /></p> <p align="left">
 
+
+
+ <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+  </p>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohanaeir1&theme=gotham&layout=compact"width="47%"/> 
+</p>
+
+<p align="center">
+<a href="https://github.com/manmohanaeir1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=manmohanaeir1&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@manmohanaeir1's github-readme-stats"/></a>
+<a href="https://github.com/manmohanaeir1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=manmohanaeir1&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
+
+<br/>
+
+
+
+
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://jharohit.com.np/">
