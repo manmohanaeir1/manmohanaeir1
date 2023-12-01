@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manmohanaeir1&" alt="Manmohan  Aeir" /></p> <p align="left">
+ 
 
 
-
- <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
-  </p>
-  
+ 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohanaeir1&theme=gotham&layout=compact"width="47%"/> 
 </p>
