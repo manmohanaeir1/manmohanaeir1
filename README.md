@@ -3,7 +3,7 @@
  <p align="center">
   <!-- Typing SVG by Manmohan - https://github.com/manmohanaeir1/readme-typing-svg -->
   <a href="https://github.com/manmohanaeir1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%Developer%20;Computer Science%Student%20;Learner%20WEB%20DEVELOPER; (AI);PROGRAMMER%20;  ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-End Developer ;ComputerScience Student ; Learner WEB DEVELOPER; PROGRAMMER%20;  ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
