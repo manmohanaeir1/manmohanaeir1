@@ -1,3 +1,12 @@
+<!-- Animated Developer SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+<p align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/045/787/206/original/mengxin-he-coding.gif?1643343921" width="300" alt="Developer Working" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Manmohan Aeir</h1>
 <h3 align="center">Backend Developer | Computer Science Student | API Enthusiast</h3>
 
@@ -16,11 +25,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **backend systems and scalable APIs**
-- 🌱 I’m currently learning **Docker, Kubernetes, AWS**
-- 👯 I’m looking to collaborate on **backend and API projects**
-- 💬 Ask me about **PHP, Laravel, Python, Django, Databases (MySQL, PostgreSQL)**
-- ⚡ Fun fact: **I love solving system design and backend challenges!**
+🔭 I’m currently working on backend systems, scalable APIs, and data-driven applications
+
+🌱 I’m currently learning Docker, Kubernetes, AWS, and Advanced Data Engineering concepts
+
+👯 I’m looking to collaborate on backend, API development, and data engineering projects
+
+💬 Ask me about PHP, Laravel, Python, Django, Databases (MySQL, PostgreSQL), Pandas, NumPy, Matplotlib, Jupyter
+
+⚡ Fun fact: I love solving system design, backend challenges, and exploring data pipelines!
 
 ---
 
@@ -36,6 +49,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> 
 </p>
 
 ---
@@ -72,10 +89,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:manmohanaeir001110@gamil.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/manmohan-aeir-401b981a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
