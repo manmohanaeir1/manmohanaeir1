@@ -1,42 +1,55 @@
-### Hi there 👋
-
-![Visitor Count](https://komarev.com/ghpvc/?username=manmohanaeir1&label=Profile%20views&color=0e75b6&style=flat)
-
-
- <p align="center">
-  <!-- Typing SVG by Manmohan - https://github.com/manmohanaeir1/readme-typing-svg -->
-  <a href="https://github.com/manmohanaeir1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-End Developer ;ComputerScience Student ; Learner WEB DEVELOPER; PROGRAMMER%20;  ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-
- 
-
-
- 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohanaeir1&theme=gotham&layout=compact"width="47%"/> 
-</p>
+<h1 align="center">Hi 👋, I'm Manmohan Aeir</h1>
+<h3 align="center">A passionate Backend Developer from Nepal</h3>
 
 <p align="center">
-<a href="https://github.com/manmohanaeir1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=manmohanaeir1&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@manmohanaeir1's github-readme-stats"/></a>
-<a href="https://github.com/manmohanaeir1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=manmohanaeir1&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+  <img src="https://komarev.com/ghpvc/?username=manmohanaeir1&label=Profile%20views&color=0e75b6&style=flat" alt="manmohanaeir1" />
 </p>
 
-<br/>
+---
 
+🌟 **About Me**  
 
+- 🔭 I’m currently working on **backend systems and scalable APIs**  
+- 🌱 I’m currently learning **Docker, Kubernetes, Cloud Services (AWS)**  
+- 👯 I’m looking to collaborate on **open-source backend projects**  
+- 💬 Ask me about **Node.js, Express, Django, Databases**  
+- 📫 How to reach me: **your-email@example.com**  
+- ⚡ Fun fact: **I love solving backend challenges and system design problems!**
 
+---
 
-<!-- activity graph heroku-app start -->
+💻 **Tech Stack**
+
+<!-- Your technology badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+📈 **GitHub Stats**
+
 <p align="center">
-    <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmohanaeir1&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=manmohanaeir1&show_icons=true&theme=radical" alt="manmohanaeir1 stats" />
 </p>
-<!-- activity graph heroku-app end -->
 
-<p align="center">
-    <a href="https://github.com/getintorj/getintorj">
-        <img src="https://github-profile-trophy.vercel.app/?username=manmohanaeir1&column=-1&theme=dracula&layout=compact"width="95%"/> 
+---
+
+📫 **Connect with me**
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:your-email@example.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 </p>
+
+---
