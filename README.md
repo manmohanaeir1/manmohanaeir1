@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Visitor Count](https://komarev.com/ghpvc/?username=manmohanaeir1&label=Profile%20views&color=0e75b6&style=flat)
+
+
  <p align="center">
   <!-- Typing SVG by Manmohan - https://github.com/manmohanaeir1/readme-typing-svg -->
   <a href="https://github.com/manmohanaeir1/readme-typing-svg">
