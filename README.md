@@ -26,13 +26,9 @@
 ## 🧑‍💻 About Me
 
 🔭 I’m currently working on backend systems, scalable APIs, and data-driven applications
-
 🌱 I’m currently learning Docker, Kubernetes, AWS, and Advanced Data Engineering concepts
-
 👯 I’m looking to collaborate on backend, API development, and data engineering projects
-
 💬 Ask me about PHP, Laravel, Python, Django, Databases (MySQL, PostgreSQL), Pandas, NumPy, Matplotlib, Jupyter
-
 ⚡ Fun fact: I love solving system design, backend challenges, and exploring data pipelines!
 
 ---
