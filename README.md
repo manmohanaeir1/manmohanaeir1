@@ -8,10 +8,10 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Manmohan Aeir</h1>
----
+ 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=20C20E&center=true&width=440&lines=Backend+Developer;Data+Engineering+Enthusiast;Python+%7C+Laravel+%7C+Django+Developer;Cloud+Learner+%7C+Docker+%7C+AWS;Always+Learning+New+Things+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=20C20E&center=true&width=440&lines=Backend+Developer;Data+Engineering+Enthusiast;Laravel+%7C+Django+Developer;Cloud+Learner+%7C+Docker+%7C+AWS;Always+Learning+New+Things+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
